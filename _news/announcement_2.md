@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-2023-4 Our work, [LeaPRR](https://github.com/LgQu/LeaPRR) (Learnable Pillar-based Re-ranking for Image-Text Retrieval), accepted by SIGIR’23!
+Our work, [LeaPRR](https://github.com/LgQu/LeaPRR) (Learnable Pillar-based Re-ranking for Image-Text Retrieval), accepted by SIGIR’23!
