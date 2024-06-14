@@ -156,8 +156,9 @@
     <!--- ADDED A PRIZE DESIGNATION LINE ---> 
     {%- if entry.prize -%}
           <!-- <div class="periodical" style="color:rgb(69, 179, 157);"> -->
-    <div class="prize" color="var(--global-pubs-bg-color);">
-          <b>{{ entry.prize}}</b>
+    {% comment %} <div class="prize" color="var(--global-pubs-bg-color);"> {% endcomment %}
+    <div class="prize">
+          <b><strong>{{ entry.prize}}</strong></b>
     </div>
     {%- endif -%}
 
