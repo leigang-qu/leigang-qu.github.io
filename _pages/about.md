@@ -21,7 +21,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 I am currently a Ph.D. candidate at [NExT++](https://www.nextcenter.org/), National University of Singapore (NUS), supversied by [Prof. Tat-Seng Chua](https://www.chuatatseng.com/) and mentored by [Wenjie Wang](https://wenjiewwj.github.io/). Before that, I obtained my Master's degree from Shandong University in 2022, supervised by [Prof. Liqiang Nie](https://liqiangnie.github.io/) and [Prof. Meng Liu](https://mengliu1991.github.io/). 
 
-My research interests lie in Visual Content Generation and Multimodal Large Language Models. 
+My research interests lie in Visual Content Generation, Multimodal Information Retrieval, and Multimodal Large Language Models. 
 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
