@@ -1,7 +1,7 @@
 ---
 layout: post
 # title: A long announcement with details
-date: 2023-08-07 16:11:00-0400
+date: 2024-06-07 16:11:00-0400
 inline: true
 related_posts: false
 ---
