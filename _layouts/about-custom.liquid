@@ -57,7 +57,7 @@ layout: default
     <!-- News -->
     {% if page.news and site.announcements.enabled -%}
       <h2>
-        <a href="{{ '/news/' | relative_url }}" style="color: inherit">news</a>
+        <a href="{{ '/news/' | relative_url }}" style="color: inherit">News</a>
       </h2>
       {% include news.liquid limit=true %}
     {%- endif %}
@@ -73,13 +73,24 @@ layout: default
     <!-- Selected papers -->
     {% if page.selected_papers %}
       <h2>
-        <a href="{{ '/publications/' | relative_url }}" style="color: inherit">publications</a>
+        <a href="{{ '/publications/' | relative_url }}" style="color: inherit">Publications</a>
       </h2>
       {% include selected_papers.liquid %}
     {% endif %}
 
     <!-- Academic Services -->
-    <h2 id="service"><strong>Academic Services</strong></h2>
-    <p>I regularly serve as a reviewer for <a href="https://cvpr2023.thecvf.com/">CVPR</a>, <a href="https://nips.cc">NeurIPS</a>, <a href="https://iccv2023.thecvf.com/">ICCV</a>.</p>
+    <h2 id="service">Academic Services</h2>
+    <p>Invited Reviewer for TMM, TKDE, TOIS, TCSVT, ToMM, Information Sciences, Multimedia Systems, Neurocomputing<br>
+    Program Committee Member of NeurIPS, ACL, SIGIR, ACMMM, KDD, AAAI in 2024<br>
+    Program Committee Member of SIGIR, ACMMM, AAAI, KDD, SIGIR-AP in 2023
+    </p>
 
+    <!-- Honors -->
+    <h2 id="honors">Honors</h2>
+    <h3>&bull; Research Achievement Award, NUS SoC, 2023</h3>
+    <h3>&bull; Student Travel Grant, SIGIR, 2023</h3>
+    <h3>&bull; Best Paper Award, ACMMM, 2022</h3>
+    <h3>&bull; President's Graduate Fellowship, NUS, 2022</h3>
+    <h3>&bull; Best Student Paper Award, SIGIR, 2021</h3>
+    <h3>&bull; Dean Scholarship, SDU, 2020</h3>
 </div>
