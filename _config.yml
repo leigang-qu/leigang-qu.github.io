@@ -290,7 +290,7 @@ display_categories: ["blockquotes"] # these categories will be displayed on the 
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Qu]
+  last_name: [Qu, Qu*]
   first_name: [Leigang]
 
   style: apa
