@@ -6,6 +6,4 @@ inline: true
 related_posts: false
 ---
 
-Our work, [LayoutLLM-T2I](https://github.com/LgQu/LeaPRR) (Eliciting Layout Guidance from LLM for
-Text-to-Image Generation), accepted by ACM MM’23! 
-
+Announce our new work, [TIGeR](https://tiger-t2i.github.io/) (Unifed Text-to-Image Generation and Retrieval)! :sparkles:

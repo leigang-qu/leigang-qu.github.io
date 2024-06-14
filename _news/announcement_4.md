@@ -5,5 +5,6 @@ inline: true
 related_posts: false
 ---
 
-Announce our new work, [TIGeR](https://tiger-t2i.github.io/) (Unifed Text-to-Image Generation and Retrieval)! :sparkles:
+Our work, [DPT](https://dpt-t2i.github.io/) (Discriminative Probing and Tuning
+for Text-to-Image Generation), accepted by CVPR’24! 
 
