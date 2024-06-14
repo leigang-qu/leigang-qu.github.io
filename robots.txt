@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://leigang5.github.io/sitemap.xml
+Sitemap: https://leigang-qu.github.io/sitemap.xml
