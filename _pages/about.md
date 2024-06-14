@@ -19,7 +19,7 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-I am currently a Ph.D. candidate at [NExT++](https://www.nextcenter.org/), National University of Singapore (NUS), supversied by [Prof. Tat-Seng Chua](https://www.chuatatseng.com/) and mentored by [Wenjie Wang](https://wenjiewwj.github.io/). Before that, I obtained my M.S. degree from Shandong University in 2022, supervised by [Prof. Liqiang Nie](https://liqiangnie.github.io/) and [Prof. Meng Liu](https://mengliu1991.github.io/). 
+I am currently a Ph.D. candidate at [NExT++](https://www.nextcenter.org/), National University of Singapore (NUS), supversied by [Prof. Tat-Seng Chua](https://www.chuatatseng.com/) and mentored by [Wenjie Wang](https://wenjiewwj.github.io/). Before that, I obtained my Master's degree from Shandong University in 2022, supervised by [Prof. Liqiang Nie](https://liqiangnie.github.io/) and [Prof. Meng Liu](https://mengliu1991.github.io/). 
 
 My research interests lie in Visual Content Generation and Multimodal Large Language Models. 
 
