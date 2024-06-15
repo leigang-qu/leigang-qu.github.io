@@ -34,6 +34,9 @@ repo_trophies:
   theme_light: flat # https://github.com/ryo-ma/github-profile-trophy
   theme_dark: gitdimmed # https://github.com/ryo-ma/github-profile-trophy
 
+# clustrmaps theme
+clustrmaps_theme: map           # "map" or "globe" https://clustrmaps.com/add
+
 # -----------------------------------------------------------------------------
 # RSS Feed
 # -----------------------------------------------------------------------------
