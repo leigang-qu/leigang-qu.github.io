@@ -158,7 +158,14 @@
           <!-- <div class="periodical" style="color:rgb(69, 179, 157);"> -->
     {% comment %} <div class="prize" color="var(--global-pubs-bg-color);"> {% endcomment %}
     <div class="prize">
-          <b><strong>{{ entry.prize}}</strong></b>
+      <font color="#FF0000"><strong>{{ entry.prize}}</strong></font> 
+    </div>
+    {%- endif -%}
+
+    <!--- ADDED A HIGHLIGHT (e.g., Oral) DESIGNATION LINE ---> 
+    {%- if entry.highlight -%}
+    <div class="highlight">
+      <strong>{{ entry.highlight}}</strong>
     </div>
     {%- endif -%}
 
