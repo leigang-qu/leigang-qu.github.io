@@ -314,8 +314,8 @@ scholar:
   details_link: Details
 
   query: "@*"
-  # group_by: year # @qu 2024-7-15 11:08:37
-  # group_order: descending # @qu 2024-7-15 11:08:43
+  group_by: year # @qu 2024-7-15 11:08:37
+  group_order: descending # @qu 2024-7-15 11:08:43
 
 # Display different badges withs stats for your publications
 enable_publication_badges:
