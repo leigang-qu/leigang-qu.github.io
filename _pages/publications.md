@@ -13,7 +13,6 @@ nav_order: 2
 
 <div class="publications">
 
-<!-- {% bibliography %} -->
 <!-- 2024-7-15 11:08:20 @qu -->
 
 {%- for y in page.years %}
