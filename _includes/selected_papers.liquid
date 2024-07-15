@@ -1,3 +1,4 @@
 <div class="publications">
-  {% bibliography --group_by year --query @*[selected=true]* %}
+  {% comment %} {% bibliography --group_by year --query @*[selected=true]* %} {% endcomment %}
+  {% bibliography -f papers --query @*[selected=true]* %}
 </div>
