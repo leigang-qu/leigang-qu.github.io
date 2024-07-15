@@ -1,5 +1,5 @@
 <div class="publications">
-  {% bibliography --query @*[selected=true]* %}
+  {% bibliography --group_by none --query @*[selected=true]* %}
   {% comment %} {% bibliography --group_by year --query @*[selected=true]* %} {% endcomment %}
   {% comment %} {% bibliography -f papers --query @*[selected=true]* %} {% endcomment %}
 </div>
