@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-Announce our new work, [TIGeR](https://tiger-t2i.github.io/) (Unifed Text-to-Image Generation and Retrieval)! :sparkles:
+Announce our new work, [TIGeR](https://tiger-t2i.github.io/) (Unifed Text-to-Image Generation and Retrieval)! 
