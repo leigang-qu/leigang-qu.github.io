@@ -211,3 +211,9 @@ footer.sticky-bottom {
 
 
 }
+
+// News
+.news .table-responsive.scrollable-announcements {
+  max-height: 20em;
+  overflow-y: auto;
+}
