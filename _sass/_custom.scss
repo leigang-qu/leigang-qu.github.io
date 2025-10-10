@@ -215,5 +215,22 @@ footer.sticky-bottom {
 // News
 .news .table-responsive.scrollable-announcements {
   max-height: 20em;
-  overflow-y: scroll;
+  overflow-y: auto;
+  scrollbar-width: none; /* Firefox */
+  -ms-overflow-style: none; /* IE 10+ */
+}
+.news .table-responsive.scrollable-announcements::-webkit-scrollbar {
+  display: none; /* Chrome/Safari/Webkit */
+}
+.news .table-responsive.scrollable-announcements:hover {
+  scrollbar-width: thin;
+}
+.news .table-responsive.scrollable-announcements:hover::-webkit-scrollbar {
+  display: block;
+  width: 8px;
+  background: #eee;
+}
+.news .table-responsive.scrollable-announcements:hover::-webkit-scrollbar-thumb {
+  background: #bbb;
+  border-radius: 4px;
 }
