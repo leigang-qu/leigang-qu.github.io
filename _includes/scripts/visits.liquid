@@ -9,14 +9,16 @@
     width: 100%; /* Make the map fill the container */
   }
 
-  @media (max-width: 768px) { /* For tablets like iPads */
+  @media (max-width: 768px) {
+    /* For tablets like iPads */
     .visits-map {
       width: 60%; /* Slightly increase the width on smaller screens */
       max-width: 250px; /* Adjust max width for tablets */
     }
   }
 
-  @media (max-width: 480px) { /* For mobile phones like iPhones */
+  @media (max-width: 480px) {
+    /* For mobile phones like iPhones */
     .visits-map {
       width: 80%; /* Narrower on mobile devices */
       max-width: 200px; /* Set a smaller max width for mobile */
@@ -25,8 +27,11 @@
 </style>
 
 <div class="visits-map">
-    <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=Xzj_pnMPCdgn0zqr-V3wQ6bmo27SoZyfnuEcr3jwd9s&cl=ffffff&w=a"></script>
+  <script
+    type="text/javascript"
+    id="clustrmaps"
+    src="//clustrmaps.com/map_v2.js?d=Xzj_pnMPCdgn0zqr-V3wQ6bmo27SoZyfnuEcr3jwd9s&cl=ffffff&w=a"
+  ></script>
 </div>
-
 
 {% comment %} <a href="https://clustrmaps.com/site/1c035"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=Xzj_pnMPCdgn0zqr-V3wQ6bmo27SoZyfnuEcr3jwd9s&cl=ffffff" /></a> {% endcomment %}

@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-Announce our new work, [VINCIE](https://vincie2025.github.io/) (VINCIE: Unlocking In-context Image Editing from Video)! 
+Announce our new work, [VINCIE](https://vincie2025.github.io/) (VINCIE: Unlocking In-context Image Editing from Video)!

@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-Announce our new work, [TTOM](https://ttom-t2v.github.io/) (TTOM: Test-Time Optimization and Memorization for Compositional Video Generation)! 
+Announce our new work, [TTOM](https://ttom-t2v.github.io/) (TTOM: Test-Time Optimization and Memorization for Compositional Video Generation)!

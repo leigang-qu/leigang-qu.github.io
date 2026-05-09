@@ -7,5 +7,4 @@ related_posts: false
 ---
 
 Our work, [LayoutLLM-T2I](https://github.com/LgQu/LeaPRR) (Eliciting Layout Guidance from LLM for
-Text-to-Image Generation), accepted by ACM MM’23! 
-
+Text-to-Image Generation), accepted by ACM MM’23!

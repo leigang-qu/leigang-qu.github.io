@@ -13,16 +13,15 @@ profile:
       <a href='https://ids.nus.edu.sg/'>Institute of Data Science</a>, <a href='https://www.comp.nus.edu.sg/'>School of Computing</a><br>
       <a href='https://www.nus.edu.sg/'>National University of Singapore</a></p>
 
-
-news: true  # includes a list of news items
-latest_posts: false  # includes a list of the newest posts 
+news: true # includes a list of news items
+latest_posts: false # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 ---
-I am currently a Ph.D. candidate at [NExT++](https://www.nextcenter.org/), National University of Singapore (NUS), supversied by Prof. [Tat-Seng Chua](https://www.chuatatseng.com/) and mentored by [Wenjie Wang](https://wenjiewwj.github.io/). Before that, I obtained my Master's degree from Shandong University in 2022, supervised by Prof. [Liqiang Nie](https://liqiangnie.github.io/) and mentored by Prof. [Meng Liu](https://mengliu1991.github.io/). I have also interned at ByteDance Seed, collaborating with Dr. [Lu Jiang](http://www.lujiang.info/index.html) and Dr. [Feng Cheng](https://klauscc.github.io/). 
 
-My research interests lie in Visual Content Generation, Multimodal Information Retrieval, and Multimodal Large Language Models. 
+I am currently a Ph.D. candidate at [NExT++](https://www.nextcenter.org/), National University of Singapore (NUS), supversied by Prof. [Tat-Seng Chua](https://www.chuatatseng.com/) and mentored by [Wenjie Wang](https://wenjiewwj.github.io/). Before that, I obtained my Master's degree from Shandong University in 2022, supervised by Prof. [Liqiang Nie](https://liqiangnie.github.io/) and mentored by Prof. [Meng Liu](https://mengliu1991.github.io/). I have also interned at ByteDance Seed, collaborating with Dr. [Lu Jiang](http://www.lujiang.info/index.html) and Dr. [Feng Cheng](https://klauscc.github.io/).
 
+My research interests lie in Visual Content Generation, Multimodal Information Retrieval, and Multimodal Large Language Models.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 

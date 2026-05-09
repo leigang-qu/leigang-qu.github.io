@@ -6,12 +6,3 @@ related_posts: false
 ---
 
 Start my Ph.D. study at National University of Singapore (NUS)!
-
-
-
-
-
-
-
-
-

@@ -6,5 +6,4 @@ related_posts: false
 ---
 
 Our work, [DPT](https://dpt-t2i.github.io/) (Discriminative Probing and Tuning
-for Text-to-Image Generation), accepted by CVPR’24! 
-
+for Text-to-Image Generation), accepted by CVPR’24!

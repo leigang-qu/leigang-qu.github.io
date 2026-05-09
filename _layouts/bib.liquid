@@ -153,20 +153,22 @@
       {{ entry.note | strip }}
     </div>
 
-    <!--- ADDED A PRIZE DESIGNATION LINE ---> 
+    <!-- - ADDED A PRIZE DESIGNATION LINE - -->
     {%- if entry.prize -%}
-          <!-- <div class="periodical" style="color:rgb(69, 179, 157);"> -->
-    {% comment %} <div class="prize" color="var(--global-pubs-bg-color);"> {% endcomment %}
-    <div class="prize">
-      <p style="color: red;"><b>{{ entry.prize}}</b></p>
-    </div>
+      <!-- <div class="periodical" style="color:rgb(69, 179, 157);"> -->
+      {% comment %} <div class="prize" color="var(--global-pubs-bg-color);"> {% endcomment %}
+      <div class="prize">
+        <p style="color: red;">
+          <b>{{ entry.prize }}</b>
+        </p>
+      </div>
     {%- endif -%}
 
-    <!--- ADDED A HIGHLIGHT (e.g., Oral) DESIGNATION LINE ---> 
+    <!-- - ADDED A HIGHLIGHT (e.g., Oral) DESIGNATION LINE - -->
     {%- if entry.highlight -%}
-    <div class="highlight">
-      <strong>{{ entry.highlight}}</strong>
-    </div>
+      <div class="highlight">
+        <strong>{{ entry.highlight }}</strong>
+      </div>
     {%- endif -%}
 
     <!-- Links/Buttons -->
