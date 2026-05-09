@@ -21,8 +21,18 @@ jobs:
         uses: actions/setup-node@v4
       - name: Install Prettier 💾
         run: npm install --save-dev --save-exact prettier @shopify/prettier-plugin-liquid
+      - name: Prettier Fix 🔧
+        if: github.event_name == 'push'
+        run: npx prettier . --write
+      - name: Commit formatted files 💾
+        if: github.event_name == 'push'
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "style: apply prettier formatting"
+          commit_options: "--no-verify"
       - name: Prettier Check 🔎
         id: prettier
+        if: github.event_name == 'pull_request'
         run: npx prettier . --check
       - name: Create diff 📝
         # https://docs.github.com/en/actions/learn-github-actions/expressions#failure
