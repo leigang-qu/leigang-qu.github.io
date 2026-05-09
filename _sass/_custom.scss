@@ -217,6 +217,11 @@ footer.sticky-bottom {
   }
 }
 
+html[data-theme="dark"] .opening-box {
+  background-color: #1e2a22;
+  color: var(--global-text-color);
+}
+
 // News
 .news .table-responsive.scrollable-announcements {
   max-height: 20em;
