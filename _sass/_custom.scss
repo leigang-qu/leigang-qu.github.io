@@ -203,6 +203,20 @@ footer.sticky-bottom {
   }
 }
 
+// Opening highlight box
+.opening-box {
+  background-color: #fff8e1;
+  border-left: 4px solid var(--global-theme-color);
+  border-radius: 4px;
+  padding: 0.85rem 1.1rem;
+  margin-bottom: 1.5rem;
+  font-size: 0.95rem;
+
+  strong {
+    color: var(--global-theme-color);
+  }
+}
+
 // News
 .news .table-responsive.scrollable-announcements {
   max-height: 20em;
