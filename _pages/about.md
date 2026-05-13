@@ -2,7 +2,7 @@
 layout: about-custom
 title: about
 permalink: /
-subtitle: Ph.D. candidate at NUS
+subtitle: Postdoctoral Research Fellow at NUS
 
 profile:
   align: right
