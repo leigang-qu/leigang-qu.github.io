@@ -10,7 +10,7 @@ profile:
   image_circular: true # crops the image to make it circular
   address: >
     <p><a href='https://www.nextcenter.org/'>NExT++ Research Center</a><br>
-      <a href='https://ids.nus.edu.sg/'>Institute of Data Science</a>, <a href='https://www.comp.nus.edu.sg/'>School of Computing</a><br>
+      <a href='https://www.comp.nus.edu.sg/'>School of Computing</a><br>
       <a href='https://www.nus.edu.sg/'>National University of Singapore</a></p>
 
 news: true # includes a list of news items
