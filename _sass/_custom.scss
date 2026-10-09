@@ -244,3 +244,8 @@ html[data-theme="dark"] .opening-box {
   background: #bbb;
   border-radius: 4px;
 }
+
+// Spacing between home page sections
+.post > h2 {
+  margin-top: 2.5rem;
+}
