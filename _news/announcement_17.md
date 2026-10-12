@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-1 paper accepted by ICML'26 (optimizing visual generative models via distribution-wise rewards)!
+1 paper accepted by ICML'26 ([Distribution-wise Rewards](https://arxiv.org/abs/2607.02291) for visual generative models)!
