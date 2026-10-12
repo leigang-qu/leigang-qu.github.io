@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-Our work, [VINCIE-NExT](https://vincie-next.github.io/) (VINCIE-NExT: Unlocking Video Editing from Images via In-Context Modeling), accepted by NeurIPS'26!
+3 papers accepted by NeurIPS'26 ([VINCIE-NExT](https://vincie-next.github.io/) for video editing, GGQR for feed-forward 4D Gaussian splatting, and FlowTrack for inversion-free video editing)!
