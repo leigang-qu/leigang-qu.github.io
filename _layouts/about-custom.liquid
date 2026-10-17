@@ -69,7 +69,7 @@ layout: default
 
   <!-- News -->
   {% if page.news and site.announcements.enabled -%}
-    <h2>
+    <h2 id="news">
       <a href="{{ '/news/' | relative_url }}" style="color: inherit">News</a>
     </h2>
     {% include news.liquid limit=true %}
@@ -85,7 +85,7 @@ layout: default
 
   <!-- Selected papers -->
   {% if page.selected_papers %}
-    <h2>
+    <h2 id="selected-publications">
       {% comment %} Selected Publications <a href="{{ '/publications/' | relative_url }}" style="color: inherit">[Full List]</a> {% endcomment %}
       Selected Publications/Preprints <a href="{{ '/publications/' | relative_url }}">[Full List]</a>
     </h2>

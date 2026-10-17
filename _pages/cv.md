@@ -2,7 +2,8 @@
 layout: default
 permalink: /cv/
 title: cv
-nav: true
+nav: false
+published: false
 nav_order: 4
 redirect_to: https://leigang-qu.github.io/
 ---

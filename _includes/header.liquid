@@ -58,6 +58,15 @@
             </a>
           </li>
 
+          <!-- Homepage sections -->
+          {% assign home_sections = 'news:News|selected-publications:Publications|service:Services|competitions:Competitions|honors:Honors' | split: '|' %}
+          {% for section in home_sections %}
+            {% assign section_parts = section | split: ':' %}
+            <li class="nav-item">
+              <a class="nav-link" href="{{ '/' | relative_url }}#{{ section_parts[0] }}">{{ section_parts[1] }}</a>
+            </li>
+          {% endfor %}
+
           <!-- Other pages -->
           {% assign sorted_pages = site.pages | sort: 'nav_order' %}
           {% for p in sorted_pages %}

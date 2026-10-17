@@ -1,6 +1,6 @@
 ---
 layout: about-custom
-title: about
+title: About
 permalink: /
 subtitle: Postdoctoral Research Fellow at NUS
 
