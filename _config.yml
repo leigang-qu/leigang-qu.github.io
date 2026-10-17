@@ -33,8 +33,10 @@ repo_trophies:
   theme_light: flat # https://github.com/ryo-ma/github-profile-trophy
   theme_dark: gitdimmed # https://github.com/ryo-ma/github-profile-trophy
 
-# clustrmaps theme
-clustrmaps_theme: map # "map" or "globe" https://clustrmaps.com/add
+# GoatCounter visitor counter (https://www.goatcounter.com)
+# Site code, i.e. the "MYCODE" part of https://MYCODE.goatcounter.com
+# In GoatCounter settings, enable "Allow adding visitor counts on your website".
+goatcounter_code: leigangqu
 
 # -----------------------------------------------------------------------------
 # RSS Feed
