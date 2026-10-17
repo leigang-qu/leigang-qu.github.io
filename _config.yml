@@ -38,6 +38,10 @@ repo_trophies:
 # In GoatCounter settings, enable "Allow adding visitor counts on your website".
 goatcounter_code: leigangqu
 
+# MapMyVisitors world map of visitors (https://mapmyvisitors.com)
+# The "d=" value from the widget code; stats at https://mapmyvisitors.com/web/1c8x1
+mapmyvisitors_id: BoNGSjy0IBwAbjgBl4qxbrf01DbpfrfVctrynR-Ob0s
+
 # -----------------------------------------------------------------------------
 # RSS Feed
 # -----------------------------------------------------------------------------

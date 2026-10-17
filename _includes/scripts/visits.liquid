@@ -1,10 +1,46 @@
+{% if site.mapmyvisitors_id %}
+  <style>
+    .visits-map {
+      width: 40%;
+      max-width: 300px;
+      margin: 2rem auto 0;
+    }
+
+    #mapmyvisitors {
+      width: 100%;
+    }
+
+    @media (max-width: 768px) {
+      .visits-map {
+        width: 60%;
+        max-width: 250px;
+      }
+    }
+
+    @media (max-width: 480px) {
+      .visits-map {
+        width: 80%;
+        max-width: 200px;
+      }
+    }
+  </style>
+
+  <div class="visits-map">
+    <script
+      type="text/javascript"
+      id="mapmyvisitors"
+      src="https://mapmyvisitors.com/map.js?d={{ site.mapmyvisitors_id }}&cl=ffffff&w=a"
+    ></script>
+  </div>
+{% endif %}
+
 {% if site.goatcounter_code %}
   <style>
     .visits-counter {
       text-align: center;
       font-size: 0.85rem;
       color: var(--global-text-color-light);
-      margin-top: 2rem;
+      margin-top: 0.5rem;
     }
   </style>
 
