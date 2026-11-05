@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-3 papers accepted by ICLR'26 ([VINCIE](https://vincie2025.github.io/) for in-context image editing, [TTOM](https://ttom-t2v.github.io/) for compositional video generation, and [AUHead](https://auhead.github.io/) for emotional talking head generation)!
+3 papers accepted by ICLR'26 ([VINCIE](https://vincie2025.github.io/) for in-context image editing, [TTOM](https://ttom-t2v.github.io/) for compositional video generation, and AUHead for emotional talking head generation)!
